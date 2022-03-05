@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotes</string>
+    <string name="notes_list_fragment_placeholder">Notes List Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_note_fragment_title">Create Note</string>
+    <string name="note_title_field_hint">Title</string>
+    <string name="note_body_field_hint">What\'s on your mind…</string>
+    <string name="fab_content_desc">Create Note</string>
+</resources>
