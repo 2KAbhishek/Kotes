@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/Kotes/main/images/screenshot.png" alt="Kotes Demo" style="width:100%">
+  <img src= "images/screenshot.png" alt="Kotes Demo" style="width:100%">
   <br/>
   <figcaption>Kotes screenshot</figcaption>
 </figure>
